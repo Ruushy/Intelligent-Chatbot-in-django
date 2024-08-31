@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Intelligent-Chatbot-in-django
+Your changes
 =======
-# Intelligent-Chatbot
->>>>>>> 02425f0 (Initial commit)
+Incoming changes
+>>>>>>> commit_hash
