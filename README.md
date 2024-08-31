@@ -59,8 +59,8 @@ Access the application at `http://127.0.0.1:8000`.
 
 ## Screenshots
 
-![Chat Interface](path/img/homepage.png)
+![Chat Interface](img/homepage.png)
 *the home page*
 
-![Response Example](path/img/botwithq.png)
+![Response Example](img/botwithq.png)
 *The bot's response.*
